@@ -1,0 +1,9 @@
+{
+  "name": "image-resizer",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "2.0.1",
+    "sharp": "0.16.0"
+  }
+}
